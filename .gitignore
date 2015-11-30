@@ -1,6 +1,10 @@
 #notes
 /_ignore/
 
+#builds
+.npmignore
+*.tgz
+
 # Logs
 logs
 *.log
