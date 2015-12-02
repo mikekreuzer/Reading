@@ -1,6 +1,6 @@
 # Reading
 
-A minimal RSS/Atom feed reader, based on code & a blog post by [Dr Drang][Drang].
+A minimal RSS/Atom feed reader, based on code & a blog post by [Dr Drang][Drang]. Reading creates a personalized feed from your blog subscriptions.
 
 Elevator pitch:
 - polls RSS/Atom feeds from a subscription list
@@ -12,7 +12,7 @@ Elevator pitch:
 After installing Node, install Reading using npm in the usual way:
 
 ```bash
-npm install -g Reading
+npm install -g reading
 ```
 
 ## Use
@@ -46,7 +46,7 @@ Happy reading!
 
 ## History
 
-### 0.1.0 - 29 November 2015
+### 0.1.0 - 30 November 2015
 
 - initial commit
 - rough cut, no tests, plenty of 404 errors from a fairly musty OPML file
