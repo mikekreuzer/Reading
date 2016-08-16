@@ -1,9 +1,8 @@
 #notes
 /_ignore/
 
-#builds
-.npmignore
-*.tgz
+#example
+subs.opml
 
 # Logs
 logs
