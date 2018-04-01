@@ -1,6 +1,6 @@
 # Reading
 
-A minimal RSS/Atom feed reader, based on code & a blog post by [Dr Drang][Drang]. Reading creates a personalized feed from your blog subscriptions.
+A minimal RSS/Atom feed reader, based on code & a blog post by [Dr Drang][Drang]. Reading creates a personalised feed from your blog subscriptions.
 
 Elevator pitch:
 - polls RSS/Atom feeds from a subscription list
@@ -46,8 +46,13 @@ Happy reading!
 
 ## History
 
-### 0.1.0 - 30 November 2015
+### 0.1.0 - 1 April 2018
+- and... we're back, Easter seeming an appropriate time to resurrect a project
 
+### retired - 23 August 2016
+- placed on hold while I worked on other things
+
+### 0.1.0 - 30 November 2015
 - initial commit
 - rough cut, no tests, plenty of 404 errors from a fairly musty OPML file
 
